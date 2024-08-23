@@ -1,0 +1,36 @@
+.rrrr {
+
+
+    border: 1px solid black;
+    width: 400px;
+    height: 700px;
+    margin: auto;
+    padding: px;
+    border-radius: 12px;
+    background-color: black;
+    
+}
+.prtdm {
+    border: solid green;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin:  auto;
+}
+.pso{
+    border:green solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin:  auto;
+}
+.you {
+    border:green solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin:  auto;
+}
